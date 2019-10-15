@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-h5-demo/static/css/main.4bf15017.chunk.css",
+    "main.js": "/react-h5-demo/static/js/main.a05789e8.chunk.js",
+    "main.js.map": "/react-h5-demo/static/js/main.a05789e8.chunk.js.map",
+    "runtime~main.js": "/react-h5-demo/static/js/runtime~main.fa34e812.js",
+    "runtime~main.js.map": "/react-h5-demo/static/js/runtime~main.fa34e812.js.map",
+    "static/css/2.c4635a08.chunk.css": "/react-h5-demo/static/css/2.c4635a08.chunk.css",
+    "static/js/2.46d9fe9b.chunk.js": "/react-h5-demo/static/js/2.46d9fe9b.chunk.js",
+    "static/js/2.46d9fe9b.chunk.js.map": "/react-h5-demo/static/js/2.46d9fe9b.chunk.js.map",
+    "index.html": "/react-h5-demo/index.html",
+    "precache-manifest.bf43c869b9b9199947b0c8fca7a413cc.js": "/react-h5-demo/precache-manifest.bf43c869b9b9199947b0c8fca7a413cc.js",
+    "service-worker.js": "/react-h5-demo/service-worker.js",
+    "static/css/2.c4635a08.chunk.css.map": "/react-h5-demo/static/css/2.c4635a08.chunk.css.map",
+    "static/css/main.4bf15017.chunk.css.map": "/react-h5-demo/static/css/main.4bf15017.chunk.css.map",
+    "static/media/main.scss": "/react-h5-demo/static/media/icon-select.d1111041.svg"
+  }
+}
